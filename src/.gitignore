@@ -1,0 +1,10 @@
+# Ignore PDFs and outputs
+input_pdfs/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
